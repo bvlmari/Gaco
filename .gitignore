@@ -1,0 +1,5 @@
+### Gradle ###
+.gradle
+**/build/
+!src/**/build/
+.DS_STORE
